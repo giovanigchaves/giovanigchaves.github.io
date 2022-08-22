@@ -69,7 +69,7 @@ img{
 .projetos a:hover{
   border-color: #fc9583;
   color: #fc300c;
-  font-size: 25px;
+  font-size: 1.6rem;
 }
 
 @media(max-width: 400px){
@@ -90,7 +90,9 @@ img{
     padding: 6px;
     margin: 0 8px;
   }
-
+  .projetos a:hover{
+    font-size: 1.35rem;
+  }
 }
 
 
